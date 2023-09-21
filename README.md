@@ -48,10 +48,3 @@ Yes ? Okay, Alice, then I will be leaving
 Goodbye, Alice
 ```
 
-## Author
-
-This Python script was created by [Your Name].
-
-## License
-
-This script is provided under the [MIT License](LICENSE). Feel free to modify and distribute it as needed.
