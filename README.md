@@ -35,16 +35,16 @@ Here's an example of what the conversation might look like:
 Hello, I'm Python
 What is your name?    Alice
 Hi, dear Alice, nice to meet you
-What time is it?   10 AM
-10 AM is a perfect time to do something productive, Alice
-What class are you taking?    Biology
-Biology is a very important class, knowing Biology can be helpful in life
-How are you feeling today?    Great
-I am glad to hear you are feeling Great, I hope you will always be Great
+What time is it?   6 PM
+6 PM is a perfect time to do something productive, Alice
+What class are you taking?    Statistics
+Statistics is a very important class, knowing Statistics can be helpful in life
+How are you feeling today?    Happy
+I am glad to hear you are feeling Happy, I hope you will always be Happy
 What is your favorite time of year?    Summer
 Summer is a beautiful time, I like Summer too
-Are you tired?     No
-No ? Okay, Alice, then I will be leaving
+Are you tired?     Yes
+Yes ? Okay, Alice, then I will be leaving
 Goodbye, Alice
 ```
 
