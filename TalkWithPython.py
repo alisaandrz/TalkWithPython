@@ -58,4 +58,6 @@ elif zzz == "no":
     print(f"You weigh {weight_in_lb} in pounds.")
     scary = ("Sounds scary, right?")
     print(scary.upper())
+print("Okay. Now it is time for me to shut down")
+print("Goodbye, " + name)
 end = input()
