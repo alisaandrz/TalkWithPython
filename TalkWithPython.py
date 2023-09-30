@@ -14,14 +14,14 @@ else:
 course = input("What class are you taking?    ")
 print(course + " is a very important class")
 print("Knowing " + course + " can be helpful in life")
-mood = input("Are you feeling happy today?  ")
+mood = input("Are you feeling happy today?  ").lower()
 if mood == "yes":
     print("Glad to hear that 🤗")
 elif mood == "no":
     print("Sorry to hear that 😔")
 else:
     print("I hope you will feel greatful")
-fav_season = input("What is your favorite time of the year?    ")
+fav_season = input("What is your favorite time of the year?    ").lower()
 if fav_season == ("winter"):
     print('That is too cold for my health')
 elif fav_season == ('summer'):
@@ -39,7 +39,7 @@ age = 2023 - int(birth_year)
 print(age)
 old = ("You are quite old.")
 print(old)
-zzz = input("Are you tired?     ")
+zzz = input("Are you tired?     ").lower()
 if zzz == "yes":
     print("Oh no!")
     sleep_hrs = input("How many hours of sleep did you get?  ")
