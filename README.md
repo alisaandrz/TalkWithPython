@@ -69,4 +69,4 @@ No wonder you are tired
 I'm getting tired now. I will shut down soon😴
 Goodbye, Alice
 
-Feel free to explore the bot's different modes and have fun interacting with it!
+## Feel free to explore the bot's different modes and have fun interacting with it!
